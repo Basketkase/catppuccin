@@ -2,3 +2,4 @@
 scss-old-theme/
 theme.css.map
 scss-rebuild/
+node_modules/
